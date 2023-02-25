@@ -1,1 +1,2 @@
-# PVCK_RijalAmmar
+# PEMROGRAMAN CITRA DAN VISI KOMPUTER
+Berisi Tugas-Tugas Untuk MataKuliah PVCK
